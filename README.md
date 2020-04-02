@@ -2,7 +2,7 @@
 
 Este diseño de careta protectora ha sido diseñada para corte láser tomando en cuenta los siguientes parámetros de diseño
 
-![Alt text](/img/facemask-campo2.jpg?raw=true "Foto en Campo 1")
+![Alt text](/img/facemask-campo4.jpg?raw=true "Foto en Campo 1")
 
 ## Principales
 
@@ -37,5 +37,9 @@ Este diseño de careta protectora ha sido diseñada para corte láser tomando en
 * PET laminado en rollo cal 15
 
 ---
+
+# Ensamble de la careta
+
+https://www.youtube.com/watch?v=GZBAMN5_3SM&feature=youtu.be
 
 dudas darius@ca.taly.st
