@@ -28,8 +28,6 @@ Este diseño de careta protectora ha sido diseñada para corte láser tomando en
 
 ---
 
-## Costo estimado: $15
-
 ### Materiales
 * Acrílico 3mm / MDF 3mm
 * Espuma de Uretano 1cm de espesor
